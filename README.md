@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Jamshid 👋
 
-<!--
-**prince001-0/prince001-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web developer and chatbot creator
 
-Here are some ideas to get you started:
+💡 What I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Developing chatbots for WhatsApp and Telegram
+
+🌐 Creating web applications (Flask, Django, React)
+
+⚡ Automation with Selenium, API integrations
+
+📊 Working with databases (PostgreSQL, MongoDB)
+
+📂 Portfolio and examples:🔹 Telegram bot example (Flask)🔹 WhatsApp bot with Selenium🔹 Web dashboard for bots
+
+📫 Contact me:
+
+💼 My Kwork
+
+✉ Telegram: @your_username
+
+📧 Email: your_email@example.com
