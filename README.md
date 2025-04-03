@@ -1,16 +1,18 @@
-## Hi there 👋
+### Привет! 👋 Я [ТВОЁ ИМЯ]  
+🚀 Веб-разработчик и разработчик чат-ботов  
 
-<!--
-**prince001-0/prince001-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Что я умею:**  
+- 🛠 Разработка чат-ботов для WhatsApp и Telegram  
+- 🌐 Создание веб-приложений (Flask, Django, React)  
+- ⚡ Автоматизация процессов (Selenium, API-интеграции)  
+- 📊 Работа с базами данных (PostgreSQL, MongoDB)  
 
-Here are some ideas to get you started:
+📂 **Портфолио и примеры работ:**  
+🔹 [Чат-бот для Telegram (Flask)](ссылка_на_репозиторий)  
+🔹 [WhatsApp-бот с Selenium](ссылка_на_репозиторий)  
+🔹 [Веб-панель управления ботами](ссылка_на_репозиторий)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Связаться со мной:**  
+- 💼 [Мой Kwork](ссылка_на_kwork)  
+- ✉ Telegram: [@Твой_ник](ссылка)  
+- 📧 Email: твоя_почта@example.com  
